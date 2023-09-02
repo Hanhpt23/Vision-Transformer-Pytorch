@@ -7,3 +7,5 @@ In this repository, we will:
 
 ## Understand the ViT paper
 Vision Transformers are a type of neural network architecture that was introduced as an alternative to traditional Convolutional Neural Networks (CNNs) for computer vision tasks. They are designed to apply the self-attention mechanism to image data, which has been successful in natural language processing tasks.
+
+# [link googlecolab](https://colab.research.google.com/drive/1hRNVgVY1jz8yjebBhDk-aQrQ84td0LxC?usp=sharing)
