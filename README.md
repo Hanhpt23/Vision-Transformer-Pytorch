@@ -1,4 +1,4 @@
-# Implement vision transformer from scratch + Cifar-10 dataset (Image classification)
+# Implement vision transformer from scratch + Cifar-10 dataset (image classification)
 ## Highlights:
 In this repository, we will:
 1. Explore the paper [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf).
